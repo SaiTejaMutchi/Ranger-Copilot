@@ -55,13 +55,6 @@
     npx convex dev
     ```
 
-### Automated Testing
-
-To run the judge-proof backend verification suite:
-```bash
-python3 tests/test_trust_receipt.py
-```
-
 ## 🏗 Technical Implementation
 
 - **Threat Score Algorithm**: Detection logic located in `convex/pipeline.ts` uses neural confidence deltas combined with factor-based logic (Humans + Vehicles + Arms) to calculate real-time threat levels.
