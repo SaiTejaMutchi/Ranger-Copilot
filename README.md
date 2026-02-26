@@ -2,7 +2,7 @@
 
 **ShieldDispatch** is an autonomous AI-driven anti-poaching surveillance system designed to provide real-time field intelligence and automated patrol response. It triages field camera images, detects poaching threats, and generates actionable intelligence for ranger teams.
 
-![ShieldDispatch Dashboard](public/demo/1.jpg) *(Example Image)*
+![ShieldDispatch Dashboard](Data/Image1.png) *(Example Image)*
 
 ## 🚀 Key Features
 
