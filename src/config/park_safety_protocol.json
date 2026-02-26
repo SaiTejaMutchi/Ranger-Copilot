@@ -1,0 +1,13 @@
+{
+    "threatLabels": [
+        "car",
+        "mountain_lion"
+    ],
+    "prioritySpecies": [
+        "bobcat",
+        "fox",
+        "coyote",
+        "badger"
+    ],
+    "lowConfidenceThreshold": 0.55
+}
